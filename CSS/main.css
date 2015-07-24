@@ -1,0 +1,48 @@
+  /*GENERAL */
+
+
+  /*NAVBAR*/
+  .introPic{
+    background-image: url('../images/computer.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 750px;
+  }
+
+  nav.navbar{
+    margin-bottom: 0px;
+  }
+  .navbar{
+    min-height: 80px;
+  }
+
+  .navbar-brand{
+    height: 80px;
+  }
+
+  .logo{
+    margin-top: -13px;
+    width: 70px;
+    height: 70px;
+  }
+
+/*INTRODUCTION*/
+  .introsquare{
+    margin-top: 300px;
+  }
+
+  .introH1{
+    color: #fff;
+  }
+  .introH4{
+    color: red;
+  }
+
+  .profile{
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/profile_pic3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  }
