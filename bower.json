@@ -1,0 +1,21 @@
+{
+  "name": "espinozabrand_v3",
+  "version": "3.0.0",
+  "homepage": "https://github.com/Bespinoza10/espinozabrand_v3",
+  "authors": [
+    "Brandon Espinoza <espinozab100@gmail.com>"
+  ],
+  "description": "espinozabrand",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
